@@ -10,7 +10,7 @@ for i in range(1,n+1):
   print()
 
 --------------------
--->reverse of a number
+-->reversing  a number and checking if it is palindrome
 
 
 num=int(input("enter a number"))
