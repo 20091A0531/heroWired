@@ -1,5 +1,3 @@
-=============================================================cardealer=========================================================================================
-
 import java.util.Scanner;
 public class cardealer {
 			public String carmodel;
@@ -57,9 +55,6 @@ public class cardealer {
 		
 			}
 	}
-
-==========================================================cardealeruse===================================================================================
-
 public class cardealeruse extends cardealer{
 	public static void main(String[] args) {
 		cardealeruse cdu=new cardealeruse();
